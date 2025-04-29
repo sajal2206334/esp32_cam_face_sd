@@ -1,1 +1,0 @@
-# esp32_cam_face_sd
